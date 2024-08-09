@@ -1,0 +1,17 @@
+Controller\AdminServlet.class
+Controller\LoginServlet.class
+Controller\PersonelServlet.class
+com\beyzasoftware\harikalarkoleji\resources\JakartaEE8Resource.class
+Entity\Bolum.class
+DAO\DepartmanDAO.class
+DAO\Veritabani.class
+Entity\Departman.class
+DAO\BolumDAO.class
+DAO\PersonelDAO.class
+Entity\PersonelDepartman.class
+com\beyzasoftware\harikalarkoleji\JakartaRestConfiguration.class
+Entity\OgrenciBolum.class
+Controller\OgrenciServlet.class
+Entity\Personel.class
+DAO\OgrenciDAO.class
+Entity\Ogrenci.class
